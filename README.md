@@ -27,7 +27,12 @@
 python DT.py
 ```
 
-### multimodel Transformer
+### multimodel CNN
+
+```Bash
+python CNN.py
+```
+### DFMM
 
 ```Bash
 python trainer.py
