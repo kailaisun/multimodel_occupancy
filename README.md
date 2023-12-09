@@ -17,9 +17,15 @@
   ```bash
   pip install -r requirements.txt
   ```
-  
 
-## Train and test
+
+ ## Test OCC
+```Bash
+python energysaving.py
+```
+You will get some plots, which can represent the energy-saving rate.
+
+## Train 
 
 ### multimodel Machine Learning
 
