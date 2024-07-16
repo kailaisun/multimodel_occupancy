@@ -2,7 +2,7 @@
 
 
 
- <img src="c3.jpg" width="80%">
+ <img src="c3.jpg" width="100%">
  
 ## Environment
 - The code is tested on Ubuntu 20.04.2, python 3.8, cuda 11.1.
