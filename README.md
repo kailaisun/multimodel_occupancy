@@ -65,9 +65,6 @@ If you use the code or performance benchmarks of this project in your research, 
 ```
 
 
-## License
-
-The repository is licensed under the [Apache 2.0 license](LICENSE).
 
 ## Contact Us
 
