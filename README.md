@@ -27,18 +27,18 @@ You will get some plots, which can represent the energy-saving rate.
 
 ## Train 
 
-### multimodel Machine Learning
+### Multimodel Machine Learning
 
 ```Bash
 python DT.py
 ```
 
-### multimodel CNN
+### Multimodel CNN
 
 ```Bash
 python CNN.py
 ```
-### DFMM
+### DMFF
 
 ```Bash
 python trainer.py
