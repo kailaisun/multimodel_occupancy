@@ -3,7 +3,8 @@
 
 
  <img src="c3.jpg" width="100%">
- 
+
+ [Paper](https://www.sciencedirect.com/science/article/pii/S0360132324001975)
 ## Environment
 - The code is tested on Ubuntu 20.04.2, python 3.8, cuda 11.1.
 
