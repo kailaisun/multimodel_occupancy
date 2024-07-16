@@ -4,7 +4,7 @@
 
  <img src="c3.jpg" width="100%">
 
- [Paper](https://www.sciencedirect.com/science/article/pii/S0360132324001975)
+ [Paper](https://www.sciencedirect.com/science/article/pii/S0360132322008617)
 ## Environment
 - The code is tested on Ubuntu 20.04.2, python 3.8, cuda 11.1.
 
@@ -49,18 +49,18 @@ python trainer.py
 
 ## Citation
 
-If you use the code or performance benchmarks of this project in your research, please refer to the following bibtex to cite.
+Please refer to the following bibtex to cite.
 
 ```
 @article{SUN2024111355,
         title = {DMFF: Deep multimodel feature fusion for building occupancy detection},
+        author = {Kailai Sun},
         journal = {Building and Environment},
         volume = {253},
         pages = {111355},
         year = {2024},
         issn = {0360-1323},
         doi = {https://doi.org/10.1016/j.buildenv.2024.111355},
-        author = {Kailai Sun}
 }
 ```
 
